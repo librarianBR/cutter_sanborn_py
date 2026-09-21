@@ -1,0 +1,5 @@
+# Interface gráfica do gerador Cutter-Sanborn (Flet 1.0)
+# A API do Flet mudou muito na versão 1.0; mantenha a versão fixada.
+flet==1.0.0
+flet-desktop==1.0.0    # janela de desktop (baixa o cliente gráfico na 1ª execução)
+flet-web==1.0.0        # modo --web (traz o cliente embutido; funciona 100% offline)
