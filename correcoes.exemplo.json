@@ -1,0 +1,4 @@
+[
+  {"chave": "Henry.G.", "nova_chave": "Henry,G.", "obs": "EXEMPLO de troca de chave. Confirme na edição impressa antes de usar."},
+  {"chave": "Fel", "remover": true, "obs": "EXEMPLO de remoção de linha. Confirme na edição impressa antes de usar."}
+]
